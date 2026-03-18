@@ -1,13 +1,15 @@
 # PunkStation
 
-**PunkStation** is a next-generation gaming console with zero compromises.  
-While other platforms rely on 4K, ray tracing, online services, and unnecessary features like **color**, **media reading**, or **comfort**, PunkStation goes straight to the point:
+**PunkStation** is a next-generation gaming console with zero compromises and powered by high-performance Raspberry Pi Pico hardware (up to 133 MHz, 264 KB SRAM, 2 MB QSPI Flash).
+
+  While other platforms rely on 4K, ray tracing, online services, and unnecessary features like **color**, **media reading**, or **comfort**, PunkStation goes straight to the point:
 
 - black-and-white OLED display
 - a few buttons
 - a buzzer
 - no patience
 - maximum fun
+
 
 This is not PlayStation.  
 This is **PunkStation**.  
