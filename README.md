@@ -13,10 +13,6 @@
 - maximum fun
 
 
-This is not PlayStation.  
-This is **PunkStation**.  
-Smaller. Tougher. Louder. And probably cheaper than an HDMI cable.
-
 <img width="817" height="463" alt="obrazek" src="https://github.com/user-attachments/assets/705b0737-2d6b-4143-b763-c8343d63c5ea" />
 
 <img width="802" height="458" alt="obrazek" src="https://github.com/user-attachments/assets/17f539ba-7838-47e2-bbee-dd61bd192625" />
