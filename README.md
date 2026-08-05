@@ -1,5 +1,7 @@
 # PunkStation
 
+**This is not PlayStation. This is PunkStation. Smaller. Tougher. Louder. And probably cheaper than an HDMI cable!**
+
 **PunkStation** is a next-generation gaming console with zero compromises and powered by high-performance Raspberry Pi Pico hardware (up to 133 MHz, 264 KB SRAM, 2 MB QSPI Flash).
 
   While other platforms rely on 4K, ray tracing, online services, and unnecessary features like **color**, **media reading**, or **comfort**, PunkStation goes straight to the point:
